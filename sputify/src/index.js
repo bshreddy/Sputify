@@ -5,6 +5,6 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import TopAppBar from './components/TopAppBar';
 
-ReactDOM.render(<TopAppBar title="Vinyl Records" />, document.getElementById('top-app-bar'));
+ReactDOM.render(<TopAppBar title="Sputify" />, document.getElementById('top-app-bar'));
 ReactDOM.render(<App />, document.getElementById('root'));
 serviceWorker.unregister();
