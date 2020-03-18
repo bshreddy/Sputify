@@ -1,0 +1,183 @@
+{
+    "banner": ["1", "2", "3","4", "21", "5", "6", "7"],
+    "content": {
+        "categories": [
+            "Popular Albums", "Best Of Artists", "Popular Playlists", "Best Selling"
+        ],
+        "categoryData": {
+            "Popular Albums": ["4", "3", "29", "21", "30", "31", "5"],
+            "Best Of Artists": ["8", "10", "22", "14", "11", "12", "18", "20", "13", "15", "16", "17", "19"],
+            "Popular Playlists": ["28", "9", "23", "24", "25", "26", "27"],
+            "Best Selling": ["4", "7", "2"]
+
+        }
+    },
+    "albums": {
+        "1": {
+            "title": "Flicker",
+            "artist": "Niall Horan",
+            "year": "2018",
+            "cover": "flicker.jpg"
+        }, 
+        "2": {
+            "title": "Shawn Mendes", 
+            "artist": "Shawn Mendes",
+            "year": "2018",
+            "cover": "shawn_mendes.jpg"
+        }, 
+        "3": {
+            "title": "When We All Fall Asleep, Where Do We Go?",
+            "artist": "Billie Eilish",
+            "year": "2019",
+            "cover": "wwfawdwg.jpg"
+        }, 
+        "4": {
+            "title": "Miss Anthropocene", 
+            "artist": "Grimes",
+            "year": "2020",
+            "cover": "miss_anthropocene.jpg"
+        }, 
+        "5": {
+            "title": "Joytime III",
+            "artist": "Marshmello",
+            "year": "2019",
+            "cover": "joytime_iii.jpg"
+        },
+        "6": {
+            "title": "24K Magic",
+            "artist": "Bruno Mars",
+            "year": "2016",
+            "cover": "24kmagic.jpg"
+        }, 
+        "7": {
+            "title": "1989", 
+            "artist": "Taylor Swift",
+            "year": "2014",
+            "cover": "1989.jpg"
+        },
+        "8": {
+            "title": "This is Grimes",
+            "followers": "1.45M",
+            "cover": "this_is_grimes.jpeg"
+        }, 
+        "9": {
+            "title": "Today's Top Hits",
+            "followers": "25.9M",
+            "cover": "todays_top_hits.jpeg"
+        },
+        "10": {
+            "title": "This is Bellie Eilish",
+            "followers": "2.5M",
+            "cover": "this_is_bellie_eilish.jpg"
+        },
+        "11": {
+            "title": "This is Camila Cabello",
+            "followers": "530k",
+            "cover": "this_is_camila_cabello.jpeg"
+        },
+        "12": {
+            "title": "This is Katy Perry",
+            "followers": "755k",
+            "cover": "this_is_katy_perry.jpeg"
+        },
+        "13": {
+            "title": "This is Taylor Swift",
+            "followers": "1.8M",
+            "cover": "this_is_taylor_swift.jpeg"
+        }, 
+        "14": {
+            "title": "This is A.R. Rahman",
+            "followers": "72k",
+            "cover": "this_is_ar_rahman.jpeg"
+        }, 
+        "15": {
+            "title": "This is Harry Styles",
+            "followers": "82k",
+            "cover": "this_is_harry_styles.jpg"
+        },
+        "16": {
+            "title": "This is Niall Horan",
+            "followers": "70k",
+            "cover": "this_is_niall_horan.jpeg"
+        },
+        "17": {
+            "title": "This is Louis Tomlinson",
+            "followers": "5k",
+            "cover": "this_is_louis_tomlinson.jpg"
+        },
+        "18": {
+            "title": "This is Shawn Mendes",
+            "followers": "1.5M",
+            "cover": "thi_is_shawn_mendas.jpeg"
+        },
+        "19": {
+            "title": "This is One Direction",
+            "followers": "1M",
+            "cover": "this_is_1d.jpeg"
+        },
+        "20": {
+            "title": "This is Maroon 5",
+            "followers": "1.5M",
+            "cover": "this_is_maroon_5.jpeg"
+        },
+        "21": {
+            "title": "City Boy",
+            "artist": "Calpurnia",
+            "year": "2018",
+            "cover": "city_boy.jpeg"
+        },
+        "22": {
+            "title": "This is Calpurnia",
+            "followers": "120k",
+            "cover": "calpurnia.jpg"
+        },
+        "23": {
+            "title": "Workout",
+            "followers": "3.6M",
+            "cover": "workout.jpeg"
+        },
+        "24": {
+            "title": "Hot Hits India",
+            "followers": "60k",
+            "cover": "hot_hits_india.jpeg"
+        },
+        "25": {
+            "title": "Bollywood Butter",
+            "followers": "75k",
+            "cover": "bollywood_butter.jpeg"
+        },
+        "26": {
+            "title": "Heart Beats",
+            "followers": "833k",
+            "cover": "heart_beats.jpeg"
+        },
+        "27": {
+            "title": "Street Dancer",
+            "followers": "29k",
+            "cover": "street_dancer.jpeg"
+        },
+        "28": {
+            "title": "All Out 10s",
+            "followers": "4.5M",
+            "cover": "all_out_10s.jpeg"
+        },
+        "29": {
+            "title": "Hollywood's Bleeding",
+            "artist": "Post Malone",
+            "year": "2019",
+            "cover": "hollywoods_bleeding.jpeg"
+        },
+        "30": {
+            "title": "Romance",
+            "artist": "Camila Cabello",
+            "year": "2019",
+            "cover": "romance.jpeg"
+        },
+        "31": {
+            "title": "Lover",
+            "artist": "Taylor Swift",
+            "year": "2019",
+            "cover": "lover.jpeg"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+.scrolling-banner {
+    background-color: #ffffff;
+    padding: 30px 0px;
+    display: flex;
+    overflow: hidden;
+}
+
+.scrolling-banner-loading, .scrolling-banner-error {
+    display: inline;
+    margin: auto;
+    font-size: 3em;
+}
+
+.scrolling-banner-error {
+    color: var(--mdc-theme-error);
+}

@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+.~lock.*
+music_library/static/tracks/

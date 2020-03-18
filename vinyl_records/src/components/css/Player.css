@@ -1,0 +1,90 @@
+:root {
+    --paper-slider-container-color: rgb(128, 128, 128);;
+    --paper-slider-active-color: rgb(255, 255, 255);
+    --paper-slider-secondary-color: rgb(200, 200, 200);;
+    --paper-slider-knob-color: rgb(255, 255, 255);
+    --paper-slider-height: 4px
+}
+
+.player-container {
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    z-index: 999;
+    width: 100%;
+    bottom: 0;
+    background-color: var(--mdc-theme-primary);
+    color: var(--mdc-theme-on-primary)
+}
+
+.player-album-image {
+    margin-left: 20px;
+}
+
+.player-wrapper {
+    margin: auto 10px;
+}
+
+.player-wrapper:last-child {
+    margin-right: 20px;
+}
+
+.player-text-wrapper {
+    width: 12%;
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis;
+}
+
+.player-album-title, .player-album-subtitle {
+    white-space: nowrap;
+    overflow: hidden; 
+    text-overflow: ellipsis;
+}
+
+.player-album-artist {
+    color:rgb(200, 200, 200);
+}
+
+.player-controls {
+    position: static;
+    flex-direction: column;
+}
+
+.player-track-progress {
+    flex-grow: 1;
+}
+
+div.player-wrapper.player-track-progress > paper-slider {
+    width: 100%;
+}
+
+.player-track-progress .track {
+    width: 100%;
+}
+
+.player-additional-controls {
+    margin-left: auto;
+}
+
+.player-control {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.player-control.player-control--active {
+    background-color: var(--mdc-theme-on-primary);
+    color: var(--mdc-theme-primary);
+}
+
+.player-control.player-control--disabled {
+    color: #808080;
+}
+
+.player-repeat {
+    border-radius: 50%;
+}
+
+.player-shuffle {
+    border-radius: 50%;
+}

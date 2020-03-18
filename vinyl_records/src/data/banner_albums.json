@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1",
+        "title": "Flicker",
+        "artist": "Niall Horan",
+        "year": "2018",
+        "cover": "flicker.jpg"
+    }, {
+        "id": "2",
+        "title": "Shawn Mendes", 
+        "artist": "Shawn Mendes",
+        "year": "2018",
+        "cover": "shawn_mendes.jpg"
+    }, {
+        "id": "3",
+        "title": "When We All Fall Asleep, Where Do We Go?",
+        "artist": "Billie Eilish",
+        "year": "2019",
+        "cover": "wwfawdwg.jpg"
+    }, {
+        "id": "4",
+        "title": "Miss Anthropocene", 
+        "artist": "Grimes",
+        "year": "2020",
+        "cover": "miss_anthropocene.jpg"
+    }, {
+        "id": "5",
+        "title": "Joytime III",
+        "artist": "Marshmello",
+        "year": "2019",
+        "cover": "joytime_iii.jpg"
+    },
+    {
+        "id": "6",
+        "title": "24K Magic",
+        "artist": "Bruno Mars",
+        "year": "2016",
+        "cover": "24kmagic.jpg"
+    }, {
+        "id": "7",
+        "title": "1989", 
+        "artist": "Taylor Swift",
+        "year": "2014",
+        "cover": "1989.jpg"
+    }
+]

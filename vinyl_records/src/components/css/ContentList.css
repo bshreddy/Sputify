@@ -1,0 +1,17 @@
+.content-list {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 5px 10px;
+    flex-direction: column;
+}
+
+.content-list-wrapper {
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    padding-bottom: 20px;
+}
+
+.content-list-title {
+    margin-bottom: 20px;
+}
